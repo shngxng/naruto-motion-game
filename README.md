@@ -18,9 +18,7 @@ This project is an interactive game built using Java and Processing, integrating
 - Whoever has the higher health by the time limit of 1 min, wins the game. Specific audios will be played for specific winners, as well as for a tied game. 
 - Throughout, a Naruto-theme song will be played! ENJOY 
 
-Note: the setup in the program requires a few seconds to load. Please wait for about 7-8s for it to load. A video demo is provided (named "Video-Demo.mp4") to show a case of Sasuke winning, with sound effects.
-
-
+Note: the setup in the program requires a few seconds to load. Please wait for about 7-8s for it to load. A video demo is provided below showcasing Sasuke winning, with sound effects: 
 https://github.com/user-attachments/assets/4691437d-d252-4b75-830c-8f2908d843e3
 
 
