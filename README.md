@@ -3,6 +3,23 @@ A motion-tracked interactive game using Java, where Naruto mimics movements from
 
 This project is an interactive game built using Java and Processing, integrating digital video processing, compositing, and 2D animation techniques. The given input video ("Opt1-MarionetteMovements.mov") shows a monkey with 5 red markers on its body, legs, and hands. These markers control a digital marionette, Naruto, in this game. 
 
+## Instructions 
+
+1. Use Processing Version: 4.3
+2. Run the extract.py Python script to extract frames from the monkey movie video before step 3. 
+3. Inside the folder "naruto_motion_game", open the file "naruto_motion_game.pde" in Processing.
+4. Click the 'run' button on the Processing editor to run the program.
+5. Game Instructions are as follows:
+- Press the 'left' or 'right' arrow keys to control Sasuke (the flying character). However, Sasuke cannot go out of bounds of the training ground (the screen). 
+- Press the 'spacebar' key to attack Naruto -- this will shoot down kunais, and will decrease Naruto's health if Naruto gets hit by the kunai. Blood splatters will be shown if Naruto gets hit by the kunai knives. 
+- Naruto will keep throwing Rasengans at Sasuke after each Rasengan is thrown.
+- If Naruto's Rasengans hits Sasuke, Sasuke's health will decrease by 5 points each hit. Audio will also be played when Sasuke gets hit each time. At every multiple of 4 times Sasuke gets hit, it will play a different audio screaming "Narutooo", and the other times will play "Ough".
+- Naruto is able to heal himself if Kurama (the nine-tailed fox) decides to go near Naruto and help him. Kurama moves randomly around the training ground (the screen). If Kurama happens to be near Naruto, Naruto gains Kurama's chakra and his health increases for the number of seconds that Kurama is near him. 
+- Whoever has the higher health by the time limit of 1 min, wins the game. Specific audios will be played for specific winners, as well as for a tied game. 
+- Throughout, a Naruto-theme song will be played! ENJOY 
+
+Note: the setup in the program requires a few seconds to load. Please wait for about 7-8s for it to load. A video demo is provided (named "Video-Demo.mp4") to show a case of Sasuke winning, with sound effects.
+
 ## Story Development and script
 
 The game is set in the Hidden Leaf Village, a battleground ravaged by battles.
