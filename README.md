@@ -66,11 +66,9 @@ Note: Due to the loading of the sound files and many images, the game takes abou
 
 1. Background replacement: I replaced the main background to be the training ground in the Hidden Leaf Village. Another dynamic background feature implemented is when Naruto gets hit by Sasuke’s Kunai knives, some ’blood’ platter appears on the screen for a few seconds. 
 
-<!-- ![screenshot](background_replacement-blood-splatter.png) -->
-
 
 <p align="center">
-  <img src="background_replacement-blood-splatter.png" alt="Example" width="550">
+  <img src="mdimages/background_replacement-blood-splatter.png" alt="Example" width="550">
 </p>
 
 
@@ -80,23 +78,23 @@ Note: Due to the loading of the sound files and many images, the game takes abou
 
 ### Characters 
 
-1. **Naruto**: The character is composed of separate images for the body, right hand, left hand, right leg, and left leg. The character’s position and "powered up" state are tracked, with the latter will increase Naruto’s health for a duration.
-– Behavior/Movements: Its movements is controlled by the monkey in the input video.
+1. **Naruto**: The character is composed of separate images for the body, right hand, left hand, right leg, and left leg. The character’s position and "powered up" state are tracked, with the latter will increase Naruto’s health for a duration. \
+– Behavior/Movements: Its movements is controlled by the monkey in the input video. \
 – Interaction: Naruto can shoot Rasengans (blue ball) upwards. If Naruto gets hit by Sasuke’s Kunai knives, there will be blood platters displayed for a few seconds on the screen. Naruto can also be healed by Kurama where there will be a power up effect (fire) when he is being healed and his health will increase. There will also be a description label "Narutoispoweringup!" in red at the top-middle of the screen.
 
-2. **Sasuke**: Sasuke is the side character in the game with its image, position, and health status. Sasuke can shoot Kunai knives and has a health level counter that decreases upon being hit by Naruto’s Rasengans.
-– Behavior/Movements: Sasuke can be controlled by the player using the ’left’ and ’right’ keys. He can only move left and right and cannot exit the screen.
+2. **Sasuke**: Sasuke is the side character in the game with its image, position, and health status. Sasuke can shoot Kunai knives and has a health level counter that decreases upon being hit by Naruto’s Rasengans. \
+– Behavior/Movements: Sasuke can be controlled by the player using the ’left’ and ’right’ keys. He can only move left and right and cannot exit the screen. \
 – Interaction: He can launch attacks by throwing kunai knives at Naruto by pressing the space bar. His health can also decrease upon getting hit by Naruto’s Rasengans. There will be audio of him screaming Naruto (for every multiple of 4 times), and the other times, it will play a "Ough" sound effect of getting hit. When he also gets hit, there will be a "Hit!" in red displayed on where he got hit.
 
-3. **Kurama**: Kurama is another side character, also known as the Nine-Tails, moves around to a random target position on the screen, assisting in powering up Naruto when close enough.
-– Behavior/Movements: Kurama moves around the screen randomly.
+3. **Kurama**: Kurama is another side character, also known as the Nine-Tails, moves around to a random target position on the screen, assisting in powering up Naruto when close enough. \
+– Behavior/Movements: Kurama moves around the screen randomly. \
 – Interaction: If Kurama happens to be near Naruto, Naruto will be able to gain some
 chakra, and Naruto’s health level will increase by the duration they are close enough.
 
 
 
 <p align="center">
-  <img src="naruto-whole.png" alt="Naruto character" width="200">
+  <img src="mdimages/naruto-whole.png" alt="Naruto character" width="200">
 </p>
 
 **Figure 1:** Naruto (a)
@@ -104,13 +102,13 @@ chakra, and Naruto’s health level will increase by the duration they are close
 
 
 <p align="center">
-  <img src="sasuke-whole.png" alt="Cursed Sasuke" width="400">
+  <img src="mdimages/sasuke-whole.png" alt="Cursed Sasuke" width="400">
 </p>
 
 **Figure 2:** Sasuke (b)
 
 <p align="center">
-  <img src="kurama-whole.png" alt="Kurama" width="300">
+  <img src="mdimages/kurama-whole.png" alt="Kurama" width="300">
 </p>
 
 **Figure 3:** Kurama (c)
@@ -134,34 +132,34 @@ chakra, and Naruto’s health level will increase by the duration they are close
 
 
 <p align="center">
-  <img src="event-1.png" alt="Event 1" width="300">
+  <img src="mdimages/event-1.png" alt="Event 1" width="300">
 </p>
 
 **Figure 4:** Kunai about to hit Naruto
 
 
 <p align="center">
-  <img src="event-2.png" alt="Event 2" width="400">
+  <img src="mdimages/event-2.png" alt="Event 2" width="400">
 </p>
 
 **Figure 5:** Naruto getting his power up from Kurama
 
 
 <p align="center">
-  <img src="event-3.png" alt="Event 3" width="400">
+  <img src="mdimages/event-3.png" alt="Event 3" width="400">
 </p>
 
 **Figure 6:** Sasuke won the game
 
 <p align="center">
-  <img src="event-4.png" alt="Event 4" width="400">
+  <img src="mdimages/event-4.png" alt="Event 4" width="400">
 </p>
 
 **Figure 7:** Naruto won the game
 
 
 <p align="center">
-  <img src="event-5.png" alt="Event 5" width="400">
+  <img src="mdimages/event-5.png" alt="Event 5" width="400">
 </p>
 
 **Figure 8:** Both won the game
