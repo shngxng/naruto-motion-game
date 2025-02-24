@@ -20,7 +20,9 @@ This project is an interactive game built using Java and Processing, integrating
 
 Note: the setup in the program requires a few seconds to load. Please wait for about 7-8s for it to load. A video demo is provided (named "Video-Demo.mp4") to show a case of Sasuke winning, with sound effects.
 
-[![Watch the demo](https://upload.wikimedia.org/wikipedia/commons/7/79/YouTube_social_white_squircle_%282017%29.svg)](https://github.com/shngxng/naruto-motion-game/raw/main/assets/Video-Demo.mp4)
+<!-- [![Watch the demo](https://upload.wikimedia.org/wikipedia/commons/7/79/YouTube_social_white_squircle_%282017%29.svg)](https://github.com/shngxng/naruto-motion-game/raw/main/assets/Video-Demo.mp4) -->
+
+<video src="https://github.com/shngxng/naruto-motion-game/raw/main/assets/Video-Demo.mp4" width="300" />
 
 
 ## Story Development and script
