@@ -19,6 +19,7 @@ This project is an interactive game built using Java and Processing, integrating
 - Throughout, a Naruto-theme song will be played! ENJOY 
 
 Note: the setup in the program requires a few seconds to load. Please wait for about 7-8s for it to load. A video demo is provided below showcasing Sasuke winning, with sound effects: 
+
 https://github.com/user-attachments/assets/4691437d-d252-4b75-830c-8f2908d843e3
 
 
