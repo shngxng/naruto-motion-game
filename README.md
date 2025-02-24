@@ -22,7 +22,6 @@ Note: the setup in the program requires a few seconds to load. Please wait for a
 
 <!-- [![Watch the demo](https://upload.wikimedia.org/wikipedia/commons/7/79/YouTube_social_white_squircle_%282017%29.svg)](https://github.com/shngxng/naruto-motion-game/raw/main/assets/Video-Demo.mp4) -->
 
-<video src="https://github.com/shngxng/naruto-motion-game/raw/main/assets/Video-Demo.mp4" width="300" />
 
 
 ## Story Development and script
